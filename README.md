@@ -43,9 +43,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"></code>
 
-<a href="https://github.com/SwapnilGavit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilGavit&theme=light&hide_langs_below=1" />
-</a>
+
+
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilGavit&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+
+
+
 <a href="https://github.com/SwapnilGavit">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SwapnilGavit&show_icons=true&theme=light&line_height=27" alt="Swapnil's github stats"/>
 </a>
