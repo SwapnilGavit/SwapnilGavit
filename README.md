@@ -1,6 +1,6 @@
 ## Hi, I'm **Swapnil Gavit**! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SwapnilGavit&label=Views&color=blue&style=plastic" alt="SwapnilGavit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SwapnilGavit&label=Views&color=129e00&style=plastic" alt="SwapnilGavit" /> </p>
 
 <a href="https://twitter.com/swapnilgavit30">
   <img align="left" alt="Swapnil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -26,6 +26,7 @@
 
 
 - 👀 I’m interested in Data Science & Machine Learning.
+- 🤝 I’m looking for help with Machine Learning Models.
 - 🌱 I’m currently learning more about Deep Learning.
 - 📫 How to reach me: [LinkedIn- @SwapnilGavit](https://www.linkedin.com/in/swapnil-gavit/) | [Twitter @SwapnilGavit30](https://twitter.com/swapnilgavit30)
 - ⚡ Fun fact: I love to Travelling and Photography.
@@ -48,6 +49,9 @@
 <a href="https://github.com/SwapnilGavit">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SwapnilGavit&show_icons=true&theme=light&line_height=27" alt="Swapnil's github stats"/>
 </a>
+
+
+
 
 <!---
 SwapnilGavit/SwapnilGavit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
