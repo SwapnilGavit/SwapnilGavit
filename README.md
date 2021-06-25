@@ -1,4 +1,5 @@
-## Hi, I'm **Swapnil Gavit**! 👋
+## Hi, I'm **Swapnil Gavit**! <a ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SwapnilGavit&label=Views&color=129e00&style=plastic" alt="SwapnilGavit" /> </p>
 
@@ -31,9 +32,11 @@
 - 📫 How to reach me: [LinkedIn- @SwapnilGavit](https://www.linkedin.com/in/swapnil-gavit/) | [Twitter @SwapnilGavit30](https://twitter.com/swapnilgavit30)
 - ⚡ Fun fact: I love to Travelling and Photography.
 
+
 [![Twitter: SwapnilGavit30](https://img.shields.io/twitter/follow/SwapnilGavit30?style=social)](https://twitter.com/swapnilgavit30)
 [![Linkedin: SwapnilGavit](https://img.shields.io/badge/-SwapnilGavit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swapnil-gavit/)](https://www.linkedin.com/in/swapnil-gavit/)
 [![GitHub SwapnilGavit](https://img.shields.io/github/followers/SwapnilGavit?label=follow&style=social)](https://github.com/SwapnilGavit)
+
 
 **Languages and Tools:**  
 
@@ -44,17 +47,22 @@
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"></code>
 
 
-
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilGavit&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
-
-
+<a href="https://github.com/SwapnilGavit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilGavit&theme=light&hide_langs_below=1" />
+</a>
 
 <a href="https://github.com/SwapnilGavit">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SwapnilGavit&show_icons=true&theme=light&line_height=27" alt="Swapnil's github stats"/>
 </a>
 
 
+<a href="https://github.com/SwapnilGavit/Loan-Aprroval-Prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SwapnilGavit&repo=Loan-Aprroval-Prediction&theme=light" />
 
+<a href="https://github.com/SwapnilGavit/Digital-Advertising-Conversion-Fraud">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SwapnilGavit&repo=Digital-Advertising-Conversion-Fraud&theme=light" />
+
+  
 
 <!---
 SwapnilGavit/SwapnilGavit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
