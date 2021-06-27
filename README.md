@@ -18,7 +18,7 @@
 <a href="https://www.instagram.com/_swapnil_gavit/">
   <img align="left" alt="Swapnil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/swapnil.gavit.30//">
+<a href="https://www.facebook.com/swapnil.gavit.30">
   <img align="left" alt="Swapnil's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
