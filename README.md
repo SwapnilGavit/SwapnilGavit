@@ -7,7 +7,7 @@
   <img align="left" alt="Swapnil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/swapnil-gavit/">
-  <img align="left" alt="Swapnil's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Swapnil's Linkdein" width="22px" src="https://img.icons8.com/material-outlined/24/000000/linkedin--v2.gif" />
 </a>
 <a href="https://github.com/SwapnilGavit">
   <img align="left" alt="Swapnil's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
