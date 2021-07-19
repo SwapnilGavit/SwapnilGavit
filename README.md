@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SwapnilGavit&label=Views&color=129e00&style=plastic" alt="SwapnilGavit" /> </p>
 
 <a href="https://twitter.com/swapnilgavit30">
-  <img align="left" alt="Swapnil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Swapnil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/swapnil-gavit/">
   <img align="left" alt="Swapnil's Linkdein" width="22px" src="https://img.icons8.com/material-outlined/24/000000/linkedin--v2.gif" />
