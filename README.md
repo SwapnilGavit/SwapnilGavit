@@ -26,9 +26,8 @@
 <br/>
 
 
-- 👀 I’m interested in Data Science & Machine Learning.
-- 🤝 I’m looking for help with Machine Learning Models.
-- 🌱 I’m currently learning more about Deep Learning.
+- 👀 I’m interested in Data Science & Machine Learning
+- 🌱 I’m currently pursuing PG-DAC at CDAC.
 - 📫 How to reach me: [LinkedIn- @SwapnilGavit](https://www.linkedin.com/in/swapnil-gavit/) | [Twitter @SwapnilGavit30](https://twitter.com/swapnilgavit30)
 - ⚡ Fun fact: I love to Travelling and Photography.
 
@@ -41,7 +40,6 @@
 **Languages and Tools:**  
 
 <code><img height="23" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
-<code><img height="23" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"></code>
 <code><img height="23" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"></code>
 <code><img height="23" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg"></code>
 <code><img height="23" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
