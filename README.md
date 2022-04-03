@@ -6,19 +6,19 @@
 <a href="https://twitter.com/swapnilgavit30" target="_blank">
   <img align="left" alt="Swapnil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/swapnil-gavit/">
+<a href="https://www.linkedin.com/in/swapnil-gavit/" target="_blank">
   <img align="left" alt="Swapnil's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/SwapnilGavit">
+<a href="https://github.com/SwapnilGavit" target="_blank">
   <img align="left" alt="Swapnil's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/SwapnilGavit">
+<a href="https://t.me/SwapnilGavit" target="_blank">
   <img align="left" alt="Swapnil's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/_swapnil_gavit/">
+<a href="https://www.instagram.com/_swapnil_gavit/"  target="_blank">
   <img align="left" alt="Swapnil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/swapnil.gavit.30">
+<a href="https://www.facebook.com/swapnil.gavit.30"  target="_blank">
   <img align="left" alt="Swapnil's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
