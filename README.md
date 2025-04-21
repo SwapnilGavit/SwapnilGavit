@@ -1,4 +1,4 @@
-## Hi, I'm **Swapnil Gavit**! <a ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+## <a ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hi, I'm **Swapnil Gavit** 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SwapnilGavit&label=Views&color=129e00&style=plastic" alt="SwapnilGavit" /> </p>
@@ -25,18 +25,32 @@
 <br/>
 <br/>
 
+I'm a passionate **Full-Stack Software Developer** with 3+ years of experience, currently working at **Excellex Technologies Pvt. Ltd.**, contributing on-site to the **National Stock Exchange of India (NSE)**.
 
-- 👀 I’m interested in Data Science & Machine Learning
-- 🌱 I’m currently pursuing PG-DAC at CDAC.
-- 📫 How to reach me: [LinkedIn- @SwapnilGavit](https://www.linkedin.com/in/swapnil-gavit/) | [Twitter @SwapnilGavit30](https://twitter.com/swapnilgavit30)
-- ⚡ Fun fact: I love to Travelling and Photography.
+### 👨‍💻 About Me
+- 🎯 Experienced in developing enterprise-level applications with a strong focus on performance, scalability, and clean code.
+- 💼 Currently working in the **Banking & Finance domain**.
+- 🎓 Completed **Post Graduate Diploma in Advanced Computing (PG-DAC)** from CDAC in 2022.
+- 🎓 Graduated in **B.Tech (ENTC)** from Dr.Babasaheb Ambedkar Technological University, Lonere in 2019.
+- 💡 I love solving problems, learning new technologies.
 
+  ### 🛠️ Tech Stack
+- **Languages**: Java, JavaScript, SQL, Python (basics)
+- **Frameworks**: Spring Boot, React.js
+- **Databases**: Oracle, MySQL
+- **Tools**: Git, Maven, Eclipse, VS Code
+- **OS**: Linux
 
-[![Twitter: SwapnilGavit30](https://img.shields.io/twitter/follow/SwapnilGavit30?style=social)](https://twitter.com/swapnilgavit30)
-[![Linkedin: SwapnilGavit](https://img.shields.io/badge/-SwapnilGavit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swapnil-gavit/)](https://www.linkedin.com/in/swapnil-gavit/)
-[![GitHub SwapnilGavit](https://img.shields.io/github/followers/SwapnilGavit?label=follow&style=social)](https://github.com/SwapnilGavit)
+### 📌 Highlights
+- ✔️ Experience working with REST APIs, Microservices, and full SDLC.
+- ✔️ Hands-on experience with production systems and real-time issue resolution.
+- ✔️ Strong understanding of backend development and database optimization.
 
-
+  ### 📫 Get in Touch
+- 💼 [LinkedIn](https://www.linkedin.com/in/swapnil-gavit/) 
+- 📧 Email: swapnilgavit19@gmail.com
+🚀 *Open to exciting opportunities where I can continue to learn and contribute to meaningful tech solutions.*
+  
 **Languages and Tools:**  
 
 <code><img height="23" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
