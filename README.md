@@ -15,7 +15,7 @@
 <a href="https://t.me/SwapnilGavit" target="_blank">
   <img align="left" alt="Swapnil's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/_swapnil_gavit/"  target="_blank">
+<a href="https://www.instagram.com/swapnil.gavit.30/"  target="_blank">
   <img align="left" alt="Swapnil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/swapnil.gavit.30"  target="_blank">
