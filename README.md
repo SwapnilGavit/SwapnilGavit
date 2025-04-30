@@ -35,11 +35,12 @@ I'm a passionate **Full-Stack Software Developer** with 3+ years of experience, 
 - 💡 I love solving problems, learning new technologies.
 
   ### 🛠️ Tech Stack
-- **Languages**: Java, JavaScript, SQL, Python (basics)
-- **Frameworks**: Spring Boot, React.js
-- **Databases**: Oracle, MySQL
+- **Backend**: Java, Spring Boot, Spring MVC, JSP/Servlet
+- **Frontend**: React.js, Bootstrap
+- **Databases**: SQL, PL/SQL
 - **Tools**: Git, Maven, Eclipse, VS Code
-- **OS**: Linux
+- **DevOps**: Linux, Shell Scripting, Linux, Apache Tomcat, Apache HTTP Server, CI/CD
+
 
 ### 📌 Highlights
 - ✔️ Experience working with REST APIs, Microservices, and full SDLC.
